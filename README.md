@@ -24,7 +24,7 @@ As I stated earlier, I will use the Recurrent Neural networks for next word pred
  <br />
  
  
-![alt text](git1.jpg)
+!("https://user-images.githubusercontent.com/59613600/172462869-eb74b5ef-ad23-4e42-a0a8-645a219817c8.PNG")
 
  <br />
  
